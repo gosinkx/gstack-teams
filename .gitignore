@@ -1,0 +1,25 @@
+# WorkBuddy specific
+.workbuddy/
+brain/
+.cache/
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Archives (keep gstack-teams.zip as release artifact)
+*.zip
+!gstack-teams.zip
